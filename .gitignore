@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Icris.MJpegStreamer.Server/obj/Debug
+/Icris.MJpegStreamer.Server/bin/Debug
+/Icris.MJpegStreamer.Server/.vs/Icris.MJpegStreamer/v15
+/Icris.MJpegStreamer.Server/packages

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icris.MJpegStreamer.Server", "Icris.MJpegStreamer.Server.csproj", "{0E7178B0-7D76-4487-8C0D-917EBC1254FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E7178B0-7D76-4487-8C0D-917EBC1254FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7178B0-7D76-4487-8C0D-917EBC1254FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7178B0-7D76-4487-8C0D-917EBC1254FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7178B0-7D76-4487-8C0D-917EBC1254FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40199E97-4857-47FD-A524-009A32CE96BD}
+	EndGlobalSection
+EndGlobal
